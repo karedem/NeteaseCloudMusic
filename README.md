@@ -1,6 +1,6 @@
-# meetu
+# NeteaseCloudMusic 
 
-A new Flutter application.
+Flutter 版本 云音乐 app.
 
 ## Getting Started
 
